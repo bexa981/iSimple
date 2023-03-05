@@ -1,0 +1,49 @@
+@media only screen and (max-width: 600px) {
+.nav-top a{
+    font-size: 15px;
+}
+.nav-main{
+    position: fixed;
+    z-index: 13;
+}
+.links a{
+    display: none;
+}
+.carousel-inner img {
+    height: 60vh;
+}
+.about-us{
+    text-align: left;
+    width: 80%;
+}
+.about-info{
+    flex-direction: column;
+}
+.exotic-main{
+    width: 80%;
+}
+.blogpost>h2{
+  font-size: 35px;
+}
+.blogpost>p{
+    font-size: 20px;
+    padding: 1.7rem;
+    width: 100%;
+}
+.blogMain .left{
+    width: 100%;
+    margin: 10px;
+}
+.blogMain .right{
+    width: 100%;
+}
+.exotic img{
+    width: 100%;
+}
+.res-box{
+    display: block;
+}
+.contact-section{
+    margin-top: 100px;
+}
+}
